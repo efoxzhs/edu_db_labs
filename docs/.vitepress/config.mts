@@ -71,7 +71,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: "github", link: "https://github.com/Th1sMaxOn/edu_db_labs" },
+      { icon: "github", link: "https://github.com/efoxzhs/edu_db_labs" },
     ],
   },
 
